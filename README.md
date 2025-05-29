@@ -59,7 +59,7 @@ I am exploring blockchain technologies, focusing on:
 
 ## 📫 Contact  
 
-📌 **LinkedIn**: [Arash Mousavi](https://www.linkedin.com/in/arashmousavi)  
+📌 **LinkedIn**: [Arash Mousavi](https://www.linkedin.com/in/mrarashmousavi)  
 
 ---
 
