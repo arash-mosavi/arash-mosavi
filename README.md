@@ -1,67 +1,81 @@
-# Hey 👋 What's up?
+# 👋 Hi, I'm Arash Mousavi
 
-## Arash Mousavi - Backend Developer | Software Engineering Student  
-
-### About Me  
-
-I specialize in backend development with a strong focus on building **scalable and efficient** applications. My expertise lies in:  
-
-- **Backend Development**: Proficient in **Node.js (NestJS, Express)** and **Golang**, following best practices like **CQRS, DDD, and Hexagonal Architecture**.  
-- **Database Management**: Experienced with **PostgreSQL, Prisma, Unit of Work**, and **transaction management techniques** (Saga, Outbox Pattern).  
-- **Other Programming Languages**: Skilled in **Python, .NET Core, PHP (Laravel)** for full-stack development.  
-- **DevOps & Infrastructure**: Comfortable with **Docker, CI/CD, and cloud solutions** for optimized deployments.  
-
-Additionally, I am actively learning and integrating **blockchain technologies**, focusing on **Ethereum, Solidity, Smart Contracts, and DApps**.  
+### Backend Engineer | Software Architect in Training | System Design Enthusiast
 
 ---
 
-## 🔧 Tech Stack  
+## 🧠 About Me
 
-### 🚀 I Code With  
+I'm a backend-focused software engineer with a passion for designing **scalable**, **robust**, and **cleanly-architected systems**.
+
+My work blends pragmatic engineering with architectural discipline — from **code-level performance** to **domain-driven system design**. I build backend services that are not only functional, but **future-proof**.
+
+---
+
+## 🧰 Core Technical Competencies
+
+### Backend Development  
+- Proficient in **Go**, **TypeScript (NestJS, Express)**  
+- Architecture patterns: **CQRS**, **Hexagonal Architecture**, **Domain-Driven Design (DDD)**  
+- Strong advocate of **clean code**, **testability**, and **modular service design**
+
+### Database & Transactions  
+- Experienced in **PostgreSQL**, **Prisma ORM**, and **transactional patterns**  
+- Applied: **Unit of Work**, **Outbox**, and **Saga orchestration** in production systems
+
+### DevOps & Delivery  
+- Build & ship with **Docker**, **CI/CD pipelines**, and **cloud-native workflows**
+
+### Polyglot Background  
+- Also worked with: **Python**, **.NET Core**, **PHP (Laravel)**  
+- Comfortable picking up any backend tech when necessary
+
+---
+
+## ⚙️ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go logo" />
+  <img src="https://nestjs.com/img/logo-small.svg" height="40" alt="NestJS logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
-  <img src="https://nestjs.com/img/logo-small.svg" height="40" alt="NestJS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
 </div>
 
 ---
 
-### 🛠 Blockchain Technologies  
+## 🔗 Blockchain Exploration
 
-I am exploring blockchain technologies, focusing on:  
-
-- Ethereum & Solidity  
-- Smart Contract Development  
-- Decentralized Applications (DApps)  
-
----
-
-## 🎯 Interests  
-
-- **Software Architecture**: Deeply interested in **system design, microservices, and distributed systems**  
-- **Software Design**: Exploring **design patterns, clean code, and best practices**  
-- **Reading Books**: Passionate about **technology, software development, and self-improvement books**  
+Currently exploring **Ethereum**, **Solidity**, and **Smart Contract** development.  
+Focus areas:  
+- Writing secure & gas-efficient contracts  
+- Building full-stack DApps with practical use cases  
 
 ---
 
-## 📫 Contact  
+## 🎯 Areas of Deep Interest
 
-📌 **LinkedIn**: [Arash Mousavi](https://www.linkedin.com/in/mrarashmousavi)  
+- **System Design**: Distributed systems, multi-tenant architectures, async processing  
+- **Software Craftsmanship**: Clean code, SOLID principles, design patterns  
+- **Performance Engineering**: Profiling, optimizing hot paths, reducing latency  
+- **Tech & Productivity Books**: Obsessed with improving as an engineer & thinker
 
 ---
 
+## 📫 Connect With Me
 
-🚀 **Always learning, building, and growing!**  
+- 📌 [LinkedIn – Arash Mousavi](https://www.linkedin.com/in/mrarashmousavi)
+
+---
+
+## 🚀 Always Engineering for Scale, Clarity, and Impact.
