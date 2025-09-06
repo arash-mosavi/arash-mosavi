@@ -72,17 +72,14 @@ Focus areas:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats at a Glance
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arash-mosavi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arash-mosavi&theme=radical" alt="GitHub Streak" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arash-mosavi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-  ![Arash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arash-mosavi&show_icons=true&theme=radical&count_private=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arash-mosavi&layout=compact&theme=radical)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arash-mosavi&theme=radical)
-
-</div>
 
 ---
 
