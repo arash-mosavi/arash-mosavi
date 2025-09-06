@@ -72,6 +72,20 @@ Focus areas:
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  ![Arash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arash-mosavi&show_icons=true&theme=radical&count_private=true)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arash-mosavi&layout=compact&theme=radical)
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arash-mosavi&theme=radical)
+
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 - 📌 [LinkedIn – Arash Mousavi](https://www.linkedin.com/in/mrarashmousavi)
